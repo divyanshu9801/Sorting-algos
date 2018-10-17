@@ -1,6 +1,3 @@
-//YEH PROGRAM THECRAZYPROGRAMMER WEBSITE SE UTHAYA GAYA HAI
-
-
 #include<iostream>
 
 using namespace std;
